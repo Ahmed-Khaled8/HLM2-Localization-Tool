@@ -8,7 +8,7 @@ You can edit any game text directly through the tool.
 
 
 <div align="center">
-<img width="682" height="457" alt="Capture" src="https://github.com/user-attachments/assets/309afeb5-1322-4249-9ce7-5fe5ea073948" />
+<img width="1157" height="643" alt="1" src="https://github.com/user-attachments/assets/bdae3d69-d3ab-443f-a32d-f1e795f1f8c7" />
 </div>
 
 ---
