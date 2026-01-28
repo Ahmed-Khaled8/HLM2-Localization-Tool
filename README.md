@@ -1,5 +1,6 @@
 # HLM2-Localization-Tool
 BIN file editor for **Hotline Miami 2** localization files
+
 You can edit the `hlm2_localization.bin` file which contains all in-game texts.
 
 ---
